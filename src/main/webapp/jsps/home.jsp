@@ -12,7 +12,7 @@
 <h1 style="color:#e20707;" align="center">DEE BEST IT SOLUTIONS </h1>
 <div style="text-align: center;">
 	<span>
-		<img src="images/deebest.png" alt="" width="300">
+		<img src="images/deebest.png" alt="" width="350">
 	</span>
 </div>
 
