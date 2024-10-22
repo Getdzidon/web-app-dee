@@ -35,7 +35,7 @@ out.println("Host Name :: "+inetAddress.getHostName());
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/deebest.png" alt="" width="500">
+		<img src="images/deebest.png" alt="" width="150">
 	</span>
 	<span style="font-weight: bold;">
                 DEE BEST IT SOLUTIONS, 
@@ -55,7 +55,7 @@ out.println("Host Name :: "+inetAddress.getHostName());
 
 <div style="text-align: right;">
 	<span>
-		<img src="images/Picture1.png" alt="" width="100">
+		<img src="images/Picture1.png" alt="" width="500">
 		<br>
 	</span>
 	<span style="font-weight: bold; font-family: Arial; color:#028053;">
