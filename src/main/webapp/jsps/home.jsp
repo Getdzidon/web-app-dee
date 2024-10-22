@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 style="color:#811c00;" align="center">DEE BEST IT SOLUTIONS </h1>
+<h1 style="color:#dc0505;" align="center">DEE BEST IT SOLUTIONS </h1>
 <div style="text-align: center;">
 	<span>
 		<img src="images/deebest.png" alt="" width="350">
@@ -35,7 +35,7 @@ out.println("Host Name :: "+inetAddress.getHostName());
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/deebest.png" alt="" width="150">
+		<img src="images/deebest.png" alt="" width="500">
 	</span>
 	<span style="font-weight: bold;">
                 DEE BEST IT SOLUTIONS, 
